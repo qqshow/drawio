@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-19T13:57:25.560Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rKEF_4W_Li6LOSoBn6uD" version="16.6.1" type="github">
+<mxfile modified="2022-02-19T14:59:21.167Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0C43zbx-oDyc_oyIZTF8" version="16.6.1" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="952" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -133,10 +133,10 @@
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-201" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;副本数据管理&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(126 , 166 , 224)&quot;&gt;数据虚拟化&lt;/b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="697" y="710" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-202" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于摘要模型&lt;br&gt;实现隐私保护&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
+        <mxCell id="KNP7MoDSMBkZazB2Lzq8-202" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于区块链分&lt;br&gt;布式存储的隐&lt;br&gt;私保护技术&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="984.5" y="290" width="95" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-203" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于智能合约&lt;br&gt;实现数据监管&lt;br&gt;和副本管理&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
+        <mxCell id="KNP7MoDSMBkZazB2Lzq8-203" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于智能合约和&lt;br&gt;监管摘要的数据&lt;br&gt;监管和副本管理&lt;br&gt;技术&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="984.5" y="460" width="95" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-204" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;国密算法&lt;br&gt;数据加密&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
