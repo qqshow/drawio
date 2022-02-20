@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T09:09:01.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Z5v1rgjRNpMuRvjNvmEO" version="16.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-20T09:10:07.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jtDSJW_K_TlY2VzOZCyL" version="16.6.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -300,8 +300,8 @@
         <mxCell id="M6V04zf0MdNi1y_I9R8W-5" value="通道加密/数据加密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="WgUTsEHBORcRLjM3bVhi-1">
           <mxGeometry x="159" y="507" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M6V04zf0MdNi1y_I9R8W-6" value="数据云重" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="WgUTsEHBORcRLjM3bVhi-1">
-          <mxGeometry x="279.5" y="507" width="120" height="20" as="geometry" />
+        <mxCell id="M6V04zf0MdNi1y_I9R8W-6" value="基于区块链&lt;br&gt;的数据去重" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="WgUTsEHBORcRLjM3bVhi-1">
+          <mxGeometry x="279.5" y="506" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="M6V04zf0MdNi1y_I9R8W-7" value="续传" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="WgUTsEHBORcRLjM3bVhi-1">
           <mxGeometry x="398" y="507" width="120" height="20" as="geometry" />
