@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T01:12:40.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="o4MIrK9hNp0QyhiS-f_H" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T01:19:17.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LkPRKnSm1pi3FTpvH9yE" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1360" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -54,6 +54,24 @@
             <mxPoint x="510" y="590" as="sourcePoint" />
             <mxPoint x="620" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2036" value="&lt;b&gt;核心应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="486" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2037" value="&lt;b&gt;重要应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2038" value="&lt;b&gt;一般应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="810" y="283.5" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2039" value="&lt;b&gt;实时保护技术&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="542" y="446" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2040" value="&lt;b&gt;副本保护技术&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="340" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2041" value="&lt;b&gt;数据备份恢复技术&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="812.5" y="240" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
