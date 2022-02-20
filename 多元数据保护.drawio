@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T07:06:04.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ssAysgViP5tIZViTtaSM" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T07:10:31.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-H-rgG_N5MHq2Vuxca1d" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -123,6 +123,15 @@
         </mxCell>
         <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2030" value="&lt;b&gt;底层能力&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="620" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2031" value="&lt;b&gt;基于区块链&lt;br&gt;的安全存储&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="632" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2033" value="&lt;b&gt;融合的数据&lt;br&gt;监管平台&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="747" y="632" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2034" value="&lt;b&gt;连续数据切片&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="940" y="632" width="110" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
