@@ -1,10 +1,10 @@
-<mxfile modified="2022-02-20T04:25:35.767Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="vbnI3_CPirUeBgchYOmk" version="16.6.1" type="github">
+<mxfile modified="2022-02-20T04:55:16.345Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WOfN__dGCURj1g-O0ec1" version="16.6.1" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="&lt;font color=&quot;#7ea6e0&quot;&gt;云存储数据安全成套设备&lt;/font&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+        <mxCell id="2" value="&lt;font color=&quot;#7ea6e0&quot;&gt;云存储数据安全成套设备&lt;/font&gt;" style="fillColor=#F6F6F6;strokeColor=#A9C4EB;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="240" width="600" height="400" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Architecture: Retail &amp;gt; Beacons and Targeted Marketing" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
@@ -91,19 +91,19 @@
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-185" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
           <mxGeometry x="316" y="695" width="594" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-187" value="区块链" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=north;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;opacity=50;" parent="1" vertex="1">
+        <mxCell id="KNP7MoDSMBkZazB2Lzq8-187" value="&lt;b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;区块链&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=north;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="571" y="642" width="70" height="51" as="geometry" />
         </mxCell>
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-189" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
           <mxGeometry x="967" y="242" width="130" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-190" value="保护技术" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=west;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;opacity=50;" parent="1" vertex="1">
+        <mxCell id="KNP7MoDSMBkZazB2Lzq8-190" value="&lt;b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;核心技术&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=west;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="916" y="379" width="51" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-191" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
           <mxGeometry x="150" y="241" width="110" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-192" value="算法" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=east;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;opacity=50;" parent="1" vertex="1">
+        <mxCell id="KNP7MoDSMBkZazB2Lzq8-192" value="&lt;b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;算法&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=east;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="264" y="380" width="51" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-193" value="应用" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=north;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=50;" parent="1" vertex="1">
@@ -130,14 +130,11 @@
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-200" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于Fabric构建联盟链/私链&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="356" y="710" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-201" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;副本数据管理&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(126 , 166 , 224)&quot;&gt;数据虚拟化&lt;/b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="KNP7MoDSMBkZazB2Lzq8-201" value="&lt;b style=&quot;color: rgb(126 , 166 , 224)&quot;&gt;智能合约和监管摘要技术&lt;/b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="697" y="710" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-202" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于区块链分&lt;br&gt;布式存储的隐&lt;br&gt;私保护技术&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="984.5" y="290" width="95" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="KNP7MoDSMBkZazB2Lzq8-203" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于智能合约和&lt;br&gt;监管摘要的数据&lt;br&gt;监管和副本管理&lt;br&gt;技术&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="984.5" y="460" width="95" height="110" as="geometry" />
+        <mxCell id="KNP7MoDSMBkZazB2Lzq8-202" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;连续数据切片&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;glass=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="984.5" y="260" width="95" height="57" as="geometry" />
         </mxCell>
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-204" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;基于SM2、SM3&lt;br&gt;SM4、SM9等国&lt;br&gt;密算法&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="290" width="95" height="110" as="geometry" />
@@ -147,6 +144,18 @@
         </mxCell>
         <mxCell id="KNP7MoDSMBkZazB2Lzq8-206" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;链上数据分布式隐私保护技术&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="526" y="710" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OngmMGMioUV-JqOByh0k-154" value="&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;基于智能合约的&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;副本数据管理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="984.5" y="333" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="OngmMGMioUV-JqOByh0k-155" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;密文数据条件打开&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="984.5" y="409" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="OngmMGMioUV-JqOByh0k-156" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;多层级数据保护&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="984.5" y="570" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="OngmMGMioUV-JqOByh0k-157" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;b&gt;智能通道&lt;/b&gt;&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=0;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="984.5" y="489" width="95" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
