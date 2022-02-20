@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T08:47:47.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jJ1o2UM0CYD-IfzuOO_J" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T08:50:51.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sKqyhgJXl32Oj5Dlx6YR" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -90,6 +90,12 @@
             <mxPoint x="445" y="245" as="sourcePoint" />
             <mxPoint x="445" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vOcRZGkYvILjWfMXEdz--2114" value="链上元数据回溯&lt;br&gt;生成任意时间点副本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#7EA6E0;opacity=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="463" y="243" width="126" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="vOcRZGkYvILjWfMXEdz--2115" value="&lt;br&gt;数据捕获&lt;br&gt;数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#7EA6E0;opacity=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="395" width="80" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
