@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T01:23:47.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="JcRIzR-AC-BHX1rUlZf6" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T01:36:13.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="DU1Y-nAUAfW1MNGgOobR" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1360" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -77,6 +77,20 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="590" as="sourcePoint" />
             <mxPoint x="975" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2047" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;shadow=0;fontColor=#0000FF;strokeWidth=2;endWidth=56.53061224489796;endSize=15.985714285714286;width=41.42857142857143;fillColor=#dae8fc;strokeColor=#FFFFFF;gradientColor=#ffffff;gradientDirection=north;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2049" value="小时级数据保护" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="aN60g5e6sKYouuoYYlqO-2047">
+          <mxGeometry x="-0.3107" y="-4" relative="1" as="geometry">
+            <mxPoint x="19" y="86" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
