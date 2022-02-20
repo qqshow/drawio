@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T07:04:40.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FDkYeuNC6IcWvqEM_Xro" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T07:06:04.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ssAysgViP5tIZViTtaSM" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="2019" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#E1F5FE;strokeWidth=2;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="40" y="56" width="165" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="2020" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A9C4EB;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2;gradientColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="2020" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="430" y="55" width="680" height="670" as="geometry" />
         </mxCell>
         <mxCell id="2025" value="保护对象" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
@@ -120,6 +120,9 @@
           <mxGeometry x="-0.3107" y="-4" relative="1" as="geometry">
             <mxPoint x="8" y="-4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2030" value="&lt;b&gt;底层能力&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="620" width="580" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
