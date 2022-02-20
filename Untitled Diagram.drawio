@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T08:50:51.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sKqyhgJXl32Oj5Dlx6YR" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T08:52:13.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cZAWGy-4xw06osrhatmS" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="2047" value="Windows Azure Management Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="1060" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2055" value="&lt;font color=&quot;#7ea6e0&quot;&gt;完整性和正确性检查&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;fontColor=#333333;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2055" value="&lt;font color=&quot;#7ea6e0&quot;&gt;完整性、正确性检查&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=14;fontColor=#333333;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="732" y="215" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2075" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" parent="1" edge="1">
@@ -96,6 +96,12 @@
         </mxCell>
         <mxCell id="vOcRZGkYvILjWfMXEdz--2115" value="&lt;br&gt;数据捕获&lt;br&gt;数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#7EA6E0;opacity=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="395" width="80" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="vOcRZGkYvILjWfMXEdz--2116" value="合约执行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#7EA6E0;opacity=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="637" y="392" width="80" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="vOcRZGkYvILjWfMXEdz--2117" value="数据安全利用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#7EA6E0;opacity=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="883" y="390" width="80" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
