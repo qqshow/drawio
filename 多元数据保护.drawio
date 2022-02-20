@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T01:19:17.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LkPRKnSm1pi3FTpvH9yE" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T01:20:33.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="74SDWZCgwisgmxo4tf1j" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1360" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -72,6 +72,15 @@
         </mxCell>
         <mxCell id="aN60g5e6sKYouuoYYlqO-2041" value="&lt;b&gt;数据备份恢复技术&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="812.5" y="240" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2042" value="&lt;b&gt;RPO秒级&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="647" y="494" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2043" value="&lt;b&gt;RPO分钟级&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="388" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aN60g5e6sKYouuoYYlqO-2044" value="&lt;b&gt;RPO小时级&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="291.5" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
