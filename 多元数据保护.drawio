@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T03:27:15.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="U4DmEfd4-JupaZcUlk_f" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T03:27:38.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="X9qvYcsC_cWP42KnIpcb" version="16.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
             <mxPoint x="8" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2030" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;底层能力&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#D4E1F5;strokeColor=#6c8ebf;align=left;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2030" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;底层能力&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="500" y="620" width="580" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ApRDn0r6OQcq2jYy4_Qp-2031" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;基于区块链&lt;br style=&quot;font-size: 15px;&quot;&gt;的安全存储&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" parent="1" vertex="1">
