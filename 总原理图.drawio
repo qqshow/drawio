@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-09T07:35:11.149Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ic-4FjxROE9xQM8pRL3q" version="17.0.0" type="github" pages="4">
+<mxfile modified="2022-03-09T07:36:05.002Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="f08vMKurKByxSWiymaZJ" version="17.0.0" type="github" pages="4">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="961" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -361,9 +361,6 @@
         <mxCell id="s2t-9tVOE8O_-lAAzo-V-1" parent="s2t-9tVOE8O_-lAAzo-V-0" />
         <mxCell id="s2t-9tVOE8O_-lAAzo-V-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;云存储数据安全成套设备&lt;/b&gt;&lt;/font&gt;" style="fillColor=#F6F6F6;strokeColor=#A9C4EB;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#000000;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="s2t-9tVOE8O_-lAAzo-V-1" vertex="1">
           <mxGeometry x="316" y="240" width="600" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="s2t-9tVOE8O_-lAAzo-V-3" value="Architecture: Retail &amp;gt; Beacons and Targeted Marketing" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="s2t-9tVOE8O_-lAAzo-V-1" vertex="1">
-          <mxGeometry x="110" y="40" width="950" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s2t-9tVOE8O_-lAAzo-V-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;资源层&lt;/font&gt;&lt;/b&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#000000;align=left;html=1;verticalAlign=top;" parent="s2t-9tVOE8O_-lAAzo-V-1" vertex="1">
           <mxGeometry x="356" y="535" width="500" height="80" as="geometry" />
